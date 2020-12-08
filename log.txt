@@ -1,0 +1,23 @@
+commit dbf0b79cf6fdd5127709e7ec3cd56062968f12d0
+Author: Merhawi2017 <meraab2013@gmail.com>
+Date:   Mon Nov 16 22:54:17 2020 +0300
+
+    Commited
+
+commit 6682924588a6142a6d42a52c6bb5e7759cf7d317
+Author: Merhawi2017 <meraab2013@gmail.com>
+Date:   Mon Nov 16 22:47:34 2020 +0300
+
+    added gitignore
+
+commit b1d8e5af219091ea11f9c1e35a4a9bbb83077e99
+Author: Merhawi2017 <meraab2013@gmail.com>
+Date:   Wed Nov 11 17:21:44 2020 +0300
+
+    renamed fil1.txt to file1.txt
+
+commit d63ca59631a57bf5b575ede1f12f0d93b4f31de9
+Author: Merhawi2017 <meraab2013@gmail.com>
+Date:   Wed Nov 11 17:04:16 2020 +0300
+
+    added
